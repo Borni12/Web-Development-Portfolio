@@ -42,3 +42,45 @@ section{
     font-weight: 700;
     position: relative;
 }
+p{
+    color: dimgray;
+
+}
+#experience{
+    margin-left:5% ;
+}
+.new{
+    background-image: url("All Images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 100%;
+    background-color: white;
+}
+#h3{
+    color: orange;
+}
+.experience-area{
+    background-image: url("All images/exp-bg.png" );
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#Full-Stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightSalmon, tomato);
+    border-image-slice: 1;
+    
+   
+}
+#language{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan) ;
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
